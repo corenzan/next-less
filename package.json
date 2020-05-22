@@ -8,13 +8,13 @@
     "url": "https://github.com/corenzan/next-css.git"
   },
   "dependencies": {
-    "@zeit/next-css": "0.2.1-canary.4",
-    "less-loader": "4.1.0"
+    "@crz/next-css": "0.2.2-canary",
+    "less-loader": "^6.1.0"
   },
   "devDependencies": {
-    "less": "^2.7.3"
+    "less": "^3.11.1"
   },
   "peerDependencies": {
-    "less": "^2.7.3"
+    "less": "^3.11.1"
   }
 }
