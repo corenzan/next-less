@@ -1,11 +1,13 @@
 {
   "name": "@crz/next-less",
   "version": "0.3.2-canary",
-  "main": "index.js",
+  "author": "Arthur <arthur@corenzan.com>",
+  "description": "Fork of the official next-less plugin.",
   "license": "MIT",
+  "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/corenzan/next-css.git"
+    "url": "https://github.com/corenzan/next-less.git"
   },
   "dependencies": {
     "@crz/next-css": "0.2.2-canary",
