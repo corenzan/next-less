@@ -1,6 +1,6 @@
 {
   "name": "@crz/next-less",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Arthur <arthur@corenzan.com>",
   "description": "Fork of the official next-less plugin.",
   "license": "MIT",
