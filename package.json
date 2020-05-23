@@ -10,7 +10,7 @@
     "url": "https://github.com/corenzan/next-less.git"
   },
   "dependencies": {
-    "@crz/next-css": "0.2.2-canary",
+    "@crz/next-css": "1.0.2",
     "less-loader": "^6.1.0"
   },
   "devDependencies": {
